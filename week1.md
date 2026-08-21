@@ -5,8 +5,10 @@
 **Student ID - 12311729**
 
 ## GNS3 Introductions ##
+- by using the oracle virtual box I installed the gns3 and created the networks and topologys
+  
 
-
+![network](/week1-hostconfigration.png/)
 
 
 
